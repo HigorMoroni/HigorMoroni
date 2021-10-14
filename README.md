@@ -14,7 +14,7 @@ São Paulo State Faculty of Technology</a><img src="https://media.giphy.com/medi
 ```javascript
 const higorMoroni = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["React", "React Native", "Redux", "Node", "Jest", "Sass", "JSS"],
+  tools: ["React", "Vue", "Drupal", "Next", "React Native", "Sass"],
   architecture: ["microservices", "SPA", "design system pattern"],
 }
 ```
