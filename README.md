@@ -5,7 +5,7 @@ São Paulo State Faculty of Technology</a><img src="https://media.giphy.com/medi
 </em></p>
 
 [![Linkedin: HigorMoroni](https://img.shields.io/badge/-HigorMoroni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higormoroni/)](https://www.linkedin.com/in/higormoroni/)
-[![Portifolio Badge](https://img.shields.io/badge/Portifolio-higor.tech-black)](https://higor.tech)
+[![Portifolio Badge](https://img.shields.io/badge/Portifolio-higor.dev-black)](https://higor.dev)
 [![GitHub Higor Moroni](https://img.shields.io/github/followers/HigorMoroni?label=Seguir&style=social)](https://github.com/HigorMoroni)
 
 
