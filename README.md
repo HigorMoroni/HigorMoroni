@@ -1,5 +1,5 @@
 <h2> Hi, I'm Higor Moroni! <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="230">
 <p><em>Systems Analyst and Developer from <a href="http://www.fatecsp.br/">
 São Paulo State Faculty of Technology</a><img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"> 
 </em></p>
