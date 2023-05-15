@@ -9,7 +9,7 @@ São Paulo State Technology College</a><img src="https://media.giphy.com/media/d
 [![GitHub Higor Moroni](https://img.shields.io/github/followers/HigorMoroni?label=Seguir&style=social)](https://github.com/HigorMoroni)
 
 
-### <img src="https://media.giphy.com/media/loG4kK4LC2NkXu219x/giphy.gif" width="100"> A little more about me...  
+### <img src="https://camo.githubusercontent.com/24b74a4d1a25c46e8d68cb58bba4df3de1059a53f0ef85d9a4be281e7a69a887/68747470733a2f2f7468756d62732e6766796361742e636f6d2f50696e6b5069657263696e6742756c6c2d73697a655f726573747269637465642e676966" width="100"> A little more about me...  
 
 ```javascript
 const higorMoroni = {
