@@ -1,5 +1,5 @@
 <h2> Hi, I'm Higor Moroni!</h2>
-<img align='right' src="https://camo.githubusercontent.com/24b74a4d1a25c46e8d68cb58bba4df3de1059a53f0ef85d9a4be281e7a69a887/68747470733a2f2f7468756d62732e6766796361742e636f6d2f50696e6b5069657263696e6742756c6c2d73697a655f726573747269637465642e676966" width="300">
+<img align='right' src="https://camo.githubusercontent.com/6354901b154b12efbb8682f56ce5aef5ad71107829910409363ff7f882238b9c/68747470733a2f2f7777772e6c6f676967726f75702e636f6d2f696d616765732f6d6f64756c65732f7675652e676966" width="300">
 <p><em>Systems Developer Analyst graduated from <a href="http://www.fatecsp.br/">
 São Paulo State Technology College</a><img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"> 
 </em></p>
