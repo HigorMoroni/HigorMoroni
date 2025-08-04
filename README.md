@@ -12,11 +12,11 @@ São Paulo State Technology College</a><img src="https://media.giphy.com/media/d
 const higorMoroni = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: [
-    "Vue", "React", "Next",
-    "Tailwind, "Sass", "Stylus"
-    "React Native", "Drupal", "Node"
+    "Vue", "Nuxt", "React",
+    "Tailwind, "Stylus", "Sass"
+    "React Native", "Node", "Laravel"
   ],
-  architecture: ["SPA", "Design System", "Singleton Pattern", "Clean Code"],
+  architecture: ["SPA", "Design System", "Clean Code"],
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi, <b>I'll be happy to meet you more!</b> :)</em>
